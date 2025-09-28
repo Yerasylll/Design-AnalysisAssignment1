@@ -81,3 +81,5 @@ This project implements and analyzes several algorithms, focusing on their asymp
     - Theoretical asymptotics capture long-term scaling trends, but **constants matter** for practical performance.
     - Depth analysis provides insights into recursion safety and memory use.
     - Experimental plots confirm mismatches between guaranteed worst-case bounds (Deterministic Select) and real-world efficiency.
+    - <img width="667" height="400" alt="plot" src="https://github.com/user-attachments/assets/bd0239ee-7cfa-4d76-b24e-6f66b55848f3" />
+
