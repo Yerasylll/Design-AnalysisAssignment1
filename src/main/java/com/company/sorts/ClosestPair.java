@@ -21,6 +21,7 @@ public class ClosestPair {
         return d;
     }
 
+
     private static double rec(Point[] byX, Point[] byY, int lo, int hi, MetricsCollector metrics) {
         int n = hi - lo + 1;
         metrics.depth().enter();

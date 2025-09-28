@@ -49,6 +49,8 @@ public class ClosestPairTest {
                         "comparisons=%d, " +
                         "depth=%d, " +
                         "time=%.3f ms%n",
-                dist, metrics.comparisons().getComp(), metrics.depth().maxDepth(), metrics.time().elapsedTimeInMillis());
+                dist, metrics.comparisons().getComp(),
+                metrics.depth().maxDepth(),
+                metrics.time().elapsedTimeInMillis());
     }
 }
